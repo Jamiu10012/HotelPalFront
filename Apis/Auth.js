@@ -1,4 +1,4 @@
-// api.js
+// api.js endpoint
 import { API_URL } from "../ProtectedRoute";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
